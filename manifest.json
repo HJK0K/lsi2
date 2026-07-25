@@ -2,7 +2,7 @@
   "name": "1RM & Symmetry Calculator",
   "short_name": "1RM Calc",
   "description": "Calculate estimated 1 Rep Max using Epley, Brzycki, and Lombardi formulas with bilateral symmetry indices.",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0c0e14",
   "theme_color": "#0c0e14",

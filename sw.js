@@ -1,11 +1,11 @@
-const CACHE_NAME = 'rm-calc-v1';
+const CACHE_NAME = 'rm-calc-v2';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/style.css',
-  '/app.js',
-  '/icon-192.png',
-  '/icon-512.png'
+  './',
+  './index.html',
+  './style.css',
+  './app.js',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 // Install — cache all assets
